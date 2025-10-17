@@ -20,3 +20,6 @@ A simple, user-friendly full-stack JavaScript app for logging physical exercise.
   5.Dev tools: VS Code, Postman  for testing
 
 ## Project Preview
+<img width="1868" height="875" alt="Image" src="https://github.com/user-attachments/assets/df8c5cc8-eebb-4a2e-8960-697feb0144fe" />
+
+<img width="852" height="290" alt="Image" src="https://github.com/user-attachments/assets/23a4b417-c0e1-41a3-b7ac-691282beb0a5" />
